@@ -1,0 +1,6 @@
+flask
+flask-socketio
+ultralytics
+scipy
+opencv-python
+numpy
